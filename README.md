@@ -1,0 +1,1 @@
+"# KOFXIV-Team-Banner-Creator" 
